@@ -1,6 +1,3 @@
-# raspi
-All about Raspberry Pi
-
 ## Auto-Updates
 install unattended-upgrades `sudo apt-get install unattended-upgrades`   
     
